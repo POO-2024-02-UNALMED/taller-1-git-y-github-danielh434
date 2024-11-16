@@ -1,0 +1,1 @@
+En el paso 8, estaba intentando subir una carpeta por si sola sin ningun archivo, cosa que no permitia hacer un commit, pero en el paso siguiente, agregue una carpeta, cosa que me permitia hacer el commit de los cambios hechos. En este caso, puedo hacer el commit porque solo estoy agregando un archivo tipo "txt", contrario al caso 8
