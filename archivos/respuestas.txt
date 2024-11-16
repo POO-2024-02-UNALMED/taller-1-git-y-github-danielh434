@@ -1,0 +1,1 @@
+No podia hacer un commit de la carpeta "archivos", puesto que GitHub Desktop no la registraba en primer lugar
