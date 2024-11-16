@@ -1,3 +1,7 @@
+Para los pasos anteriores, no podia hacer un commit de la carpeta "archivos" pues esta no era registrada por GitHub Desktop ya que no tenia archivos adentro, pero una vez creado el archivo "respuestas", la carpeta paso a contener archivos y fue reconocida por GitHub Desktop como un cambio, lo que me permite hacer un commit y subsecuente push. En el caso de "merge.txt", estoy creando un archivo en una carpeta que ya existe, cosa que me permite hacer el commit.
+
 Daniel Hincapie Cardona
 25
-Espero expandir mi conocimiento en programacion, no solo en terminus de manejo de codigo y lenguajes de programacion, pero Tambien entender como funcionan las cosas "in the background", ya que esto me permite entender no solo el codigo sino la estructura y logica computacional que este tiene.
+Espero expandir mi conocimiento en programacion, no solo en terminus de manejo de codigo y lenguajes de programacion, pero tambien entender como funcionan las cosas "in the background", ya que esto me permite entender no solo el codigo sino la estructura y logica computacional que este tiene.
+
+En este caso, es importante trabajar los archivos desde un solo lugar puesto que pueden haber cambios que no seran bilaterales o reesscribiran cambios que se habian hecho en otro lugar. Suponiendo el caso actual, el "merge.txt" que estaba en GitHub Web podria haber sido reescrito por el "merge.txt" en GitHub Desktop, o visceversa dependiendo del orden de ejecucion. En cualquier caso, es importante solo trabajar en una de las plataformas cuando se este haciendo un cambio a un archivo especifico para no tener errores, potenciales perdida de informacion, etc.
