@@ -1,1 +1,1 @@
-
+Porque en la carpeta hay archivos, en primer lugar "respuestas.txt" y en segundo lugar, el nuevo documento de texto que estoy creando. Antes solo buscaba subir una carpeta vacia, mientras que en este caso estoy subiendo una carpeta que contiene elementos
